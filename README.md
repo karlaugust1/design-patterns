@@ -10,6 +10,9 @@ A project to demonstrate the use of various Design Patterns, including Adapter, 
  - Abstract Factory Method
  - Singleton
  - Composite
+ - Observer
+ - Chain of Responsability
+ - Strategy
  
 License 
 ----
