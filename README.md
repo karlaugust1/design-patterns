@@ -4,13 +4,13 @@ A project to demonstrate the use of various Design Patterns, including Adapter, 
 ## All Design Patterns inside
 
  - ✔️ Adapter
+ - ✔️ Observer
  
 ## In the future it will be inside
 
  - Abstract Factory Method
  - Singleton
  - Composite
- - Observer
  - Chain of Responsability
  - Strategy
  
