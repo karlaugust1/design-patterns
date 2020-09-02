@@ -1,0 +1,41 @@
+{
+    "name": "design-patterns",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --passWithNoTests --noStackTrace --runInBand"
+    },
+    "keywords": [],
+    "author": "Karl Harder",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^25.2.3",
+        "@types/node": "^14.0.26",
+        "@types/validator": "^13.1.0",
+        "@typescript-eslint/eslint-plugin": "^3.7.1",
+        "@typescript-eslint/parser": "^3.7.1",
+        "eslint": "^7.5.0",
+        "eslint-plugin-import": "^2.22.0",
+        "jest": "^26.1.0",
+        "ts-jest": "^26.1.4",
+        "typescript": "^3.9.7"
+    },
+    "jest": {
+        "moduleFileExtensions": [
+            "js",
+            "json",
+            "ts"
+        ],
+        "rootDir": ".",
+        "testRegex": ".(spec|test).ts$",
+        "transform": {
+            "^.+\\.(t|j)s$": "ts-jest"
+        },
+        "coverageDirectory": "../coverage",
+        "testEnvironment": "node"
+    },
+    "engines": {
+        "node": "12.x"
+    }
+}
