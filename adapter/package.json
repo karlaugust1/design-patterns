@@ -34,9 +34,7 @@
         "coverageDirectory": "coverage",
         "testEnvironment": "node",
         "transform": {
-            ".+\\.ts$": "ts-jest",
-        "rootDir": ".",
-        "testRegex": ".(spec|test).ts$"
+            ".+\\.ts$": "ts-jest"
         }
     },
     "dependencies": {
