@@ -1,0 +1,2 @@
+Observer de contas de pagamentos, quando realizado um pagamento notifica os listeners sobre o pagamento (extrato e notificação)
+Observer de recebimento de pagamentos, quando realizado um pagamento notifica os listeners sobre o pagamento (extrato e notificação e saldo)
