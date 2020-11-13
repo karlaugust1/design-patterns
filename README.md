@@ -5,13 +5,13 @@ A project to demonstrate the use of various Design Patterns, including Adapter, 
 
  - ✔️ Adapter
  - ✔️ Observer
+ - ✔️ Chain of Responsability
  
 ## In the future it will be inside
 
  - Abstract Factory Method
  - Singleton
  - Composite
- - Chain of Responsability
  - Strategy
  
 License 
