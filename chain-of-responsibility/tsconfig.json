@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "module": "CommonJS",
+        "target": "ES2019",
+        "esModuleInterop": true,
+        "noUnusedParameters": true,
+        "noUnusedLocals": false,
+        "sourceMap": true,
+        "rootDir": "src",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "**/*.spec.ts",
+        "**/*.test.ts"
+    ]
+}
