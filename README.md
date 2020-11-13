@@ -13,6 +13,10 @@ A project to demonstrate the use of various Design Patterns, including Adapter, 
  - Singleton
  - Composite
  - Strategy
+ - Builder
+ - Factory Method
+ - Proxy
+ - Strategy
  
 License 
 ----
